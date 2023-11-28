@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Problema idades\Problema idades\Problema idades\obj\Debug\Problema idades.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Problema idades\Problema idades\Problema idades\obj\Debug\Problema idades.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Problema idades\Problema idades\Problema idades\bin\Debug\Problema idades.exe.config
+C:\temp\ws-vs2019\Problema idades\Problema idades\Problema idades\bin\Debug\Problema idades.exe
+C:\temp\ws-vs2019\Problema idades\Problema idades\Problema idades\bin\Debug\Problema idades.pdb
+C:\temp\ws-vs2019\Problema idades\Problema idades\Problema idades\obj\Debug\Problema idades.exe
+C:\temp\ws-vs2019\Problema idades\Problema idades\Problema idades\obj\Debug\Problema idades.pdb
